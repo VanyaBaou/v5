@@ -1,0 +1,58 @@
+
+#List of entity configurations
+[[entities]]
+	entity = "minecraft:creeper"
+	minTier = 0
+	maxTier = 4
+	presetAffixes = []
+	affixList = ["knocking", "wounding", "paralyzing", "molten"]
+	affixPermission = "BLACKLIST"
+[[entities]]
+	entity = "minecraft:silverfish"
+	minTier = 0
+	maxTier = 0
+	presetAffixes = []
+	affixList = []
+	affixPermission = "BLACKLIST"
+[[entities]]
+	entity = "minecraft:endermite"
+	minTier = 0
+	maxTier = 0
+	presetAffixes = []
+	affixList = []
+	affixPermission = "BLACKLIST"
+[[entities]]
+	entity = "greekfantasy:hydra_head"
+	minTier = 0
+	maxTier = 0
+	presetAffixes = []
+	affixList = []
+	affixPermission = "BLACKLIST"
+[[entities]]
+	entity = "majruszs_difficulty:creeperling"
+	minTier = 0
+	maxTier = 0
+	presetAffixes = []
+	affixList = []
+	affixPermission = "BLACKLIST"
+[[entities]]
+	entity = "minecraft:vex"
+	minTier = 0
+	maxTier = 0
+	presetAffixes = []
+	affixList = []
+	affixPermission = "BLACKLIST"
+[[entities]]
+	entity = "minecraft:slime"
+	minTier = 0
+	maxTier = 2
+	presetAffixes = []
+	affixList = []
+	affixPermission = "BLACKLIST"
+[[entities]]
+	entity = "minecraft:magma_cube"
+	minTier = 0
+	maxTier = 2
+	presetAffixes = []
+	affixList = []
+	affixPermission = "BLACKLIST"

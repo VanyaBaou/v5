@@ -1,0 +1,52 @@
+{
+	id: "23C4FE9BC166D7DA"
+	order_index: 3
+	title: "Materials Dusts"
+	loot_size: 1
+	rewards: [
+		{ item: "the_afterlight:crushed_moon_crystal_dust" }
+		{ item: "feywild:fey_dust" }
+		{ item: "infernalexp:moth_dust" }
+		{ item: "thermal:nickel_dust" }
+		{ item: "thermal:silver_dust" }
+		{ item: "thermal:lead_dust" }
+		{ item: "thermal:tin_dust" }
+		{ item: "minecraft:redstone" }
+		{ item: "minecraft:glowstone_dust" }
+		{ item: "iceandfire:pixie_dust" }
+		{ item: "mysticalworld:copper_dust" }
+		{ item: "mysticalworld:lead_dust" }
+		{ item: "mysticalworld:silver_dust" }
+		{ item: "mysticalworld:tin_dust" }
+		{ item: "mysticalworld:gold_dust" }
+		{ item: "mysticalworld:iron_dust" }
+		{ item: "vanillafoodpantry:rock_salt_crystals" }
+		{ item: "waystones:warp_dust" }
+		{ item: "betterendforge:ender_dust" }
+		{ item: "thermal:sawdust" }
+		{ item: "thermal:apatite_dust" }
+		{ item: "thermal:cinnabar_dust" }
+		{ item: "thermal:niter_dust" }
+		{ item: "thermal:sulfur_dust" }
+		{ item: "thermal:ender_pearl_dust" }
+		{ item: "thermal:iron_dust" }
+		{ item: "thermal:gold_dust" }
+		{ item: "thermal:diamond_dust" }
+		{ item: "thermal:lapis_dust" }
+		{ item: "thermal:emerald_dust" }
+		{ item: "thermal:quartz_dust" }
+		{ item: "thermal:tin_dust" }
+		{ item: "thermal:copper_dust" }
+		{ item: "thermal:sawdust" }
+	]
+	loot_crate: {
+		drops: {
+			boss: 0
+			passive: 0
+			monster: 0
+		}
+		color: 16777215
+		glow: 1b
+		string_id: "materials_dusts"
+	}
+}

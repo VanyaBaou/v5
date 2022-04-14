@@ -1,0 +1,6 @@
+"Allow all items to be added" = false
+"Whitelisted Items" = ["alexsmobs:animal_dictionary", "ars_nouveau:worn_notebook", "betterendforge:guidebook", "patchouli:guide_book", "cookingforblockheads:recipe_book", "dimensionalpocketsii:dimensional_tome", "eidolon:codex", "iceandfire:bestiary", "mushroomquest:mycopedia", "mysticalworld:encyclopedia", "ob_core:mysterious_box", "solpotato:food_book"]
+"Whitelisted Names" = []
+"Blacklisted Mods" = []
+"Mod Aliases" = []
+

@@ -1,0 +1,494 @@
+{
+	id: "33E10527DCD06E5D"
+	group: "2C344CA71B9F0CFD"
+	order_index: 4
+	filename: "trinkets__curios"
+	title: "Trinkets 'n Curios"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -0.5d
+			y: 0.0d
+			id: "3AABACB45BD17A3D"
+			tasks: [{
+				id: "51E07B6FEB1097E5"
+				type: "item"
+				item: {
+					id: "bountifulbaubles:disintegration_tablet"
+					Count: 1b
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 0.5d
+			y: 0.0d
+			id: "71455036E8DC2C51"
+			tasks: [{
+				id: "262FD7A74760A60F"
+				type: "item"
+				item: {
+					id: "bountifulbaubles:spectral_silt"
+					Count: 1b
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: 0.0d
+			id: "660A9800A8365339"
+			tasks: [{
+				id: "0F20DA19C3FF6F66"
+				type: "item"
+				item: {
+					id: "bountifulbaubles:resplendent_token"
+					Count: 1b
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 5.0d
+			y: 7.5d
+			shape: "octagon"
+			size: 2.0d
+			id: "6C45CE02A03DCEE9"
+			tasks: [{
+				id: "4B96497B3B93445F"
+				type: "item"
+				item: {
+					id: "relics:runic_altar"
+					Count: 1b
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 5.0d
+			y: 3.5d
+			shape: "diamond"
+			id: "3BFC6AA60A53EBEF"
+			tasks: [{
+				id: "5C2C5B614B13EF4E"
+				type: "item"
+				item: {
+					id: "relics:runic_anvil"
+					Count: 1b
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 3.0d
+			y: 4.0d
+			shape: "diamond"
+			id: "056C737A9F7067AC"
+			tasks: [{
+				id: "595EEACA48CE2333"
+				type: "item"
+				item: {
+					id: "relics:runic_hammer"
+					Count: 1b
+					tag: {
+						Damage: 0
+						itemModifier: "modifiers:damaged"
+					}
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 3.0d
+			y: 11.0d
+			shape: "diamond"
+			id: "4AC02F79E1FC598E"
+			tasks: [{
+				id: "5B293DAF792E36AA"
+				type: "item"
+				item: {
+					id: "relics:rune_of_earth"
+					Count: 1b
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: 9.5d
+			shape: "diamond"
+			id: "04810B465CB4CFBC"
+			tasks: [{
+				id: "6F3E6D0355E8BC98"
+				type: "item"
+				item: {
+					id: "relics:rune_of_air"
+					Count: 1b
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: 5.5d
+			shape: "diamond"
+			id: "4FA2DA9A1472A660"
+			tasks: [{
+				id: "6645E18329022AC9"
+				type: "item"
+				item: {
+					id: "relics:rune_of_cold"
+					Count: 1b
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 1.0d
+			y: 7.5d
+			shape: "diamond"
+			id: "3593E9928FEE5A23"
+			tasks: [{
+				id: "6694C1EE02BB5402"
+				type: "item"
+				item: {
+					id: "relics:rune_of_moon"
+					Count: 1b
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 5.0d
+			y: 11.5d
+			shape: "diamond"
+			id: "65076A3CC0CD08D3"
+			tasks: [{
+				id: "6436E15FA73A54BB"
+				type: "item"
+				item: {
+					id: "relics:rune_of_explosion"
+					Count: 1b
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 7.0d
+			y: 4.0d
+			shape: "diamond"
+			id: "4D77F0FB2E285FF1"
+			tasks: [{
+				id: "0F7B5B2DFC6D83CE"
+				type: "item"
+				item: {
+					id: "relics:rune_of_fire"
+					Count: 1b
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 9.0d
+			y: 7.5d
+			shape: "diamond"
+			id: "242A5C2AEE70A243"
+			tasks: [{
+				id: "26EEBCCC4C5BC6A8"
+				type: "item"
+				item: {
+					id: "relics:rune_of_water"
+					Count: 1b
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 8.5d
+			y: 6.0d
+			shape: "diamond"
+			id: "74E8668933CCF55C"
+			tasks: [{
+				id: "173F1A4391914B2B"
+				type: "item"
+				item: {
+					id: "relics:rune_of_lightning"
+					Count: 1b
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 7.0d
+			y: 11.0d
+			shape: "diamond"
+			id: "58D2B9BA292FF97D"
+			tasks: [{
+				id: "72A46651D28BF5A5"
+				type: "item"
+				item: {
+					id: "relics:rune_of_love"
+					Count: 1b
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 8.5d
+			y: 9.0d
+			shape: "diamond"
+			id: "29D20461B83BD6F1"
+			tasks: [{
+				id: "673B14E67F942E0F"
+				type: "item"
+				item: {
+					id: "relics:rune_of_sun"
+					Count: 1b
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 5.0d
+			y: 5.0d
+			dependencies: ["6C45CE02A03DCEE9"]
+			id: "675F9F5E9DE54E52"
+			tasks: [{
+				id: "79212E9BC3EEE869"
+				type: "item"
+				item: {
+					id: "relics:ice_breaker"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 6.5d
+			y: 6.0d
+			dependencies: ["6C45CE02A03DCEE9"]
+			id: "12F45FBD6CA8D79D"
+			tasks: [{
+				id: "2A1887353BA73C3D"
+				type: "item"
+				item: {
+					id: "relics:ice_skates"
+					Count: 1b
+					tag: {
+						Damage: 0
+						itemModifier: "modifiers:wild"
+					}
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 3.5d
+			y: 6.0d
+			dependencies: ["6C45CE02A03DCEE9"]
+			id: "408CD22C821A32E8"
+			tasks: [{
+				id: "7F45F6B325F4028E"
+				type: "item"
+				item: {
+					id: "relics:magma_walker"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 2.5d
+			y: 7.5d
+			dependencies: ["6C45CE02A03DCEE9"]
+			id: "3BF946836371EEB8"
+			tasks: [{
+				id: "6658E84CAC5AA569"
+				type: "item"
+				item: {
+					id: "relics:amphibian_boot"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 5.0d
+			y: 10.0d
+			dependencies: ["6C45CE02A03DCEE9"]
+			id: "1F653D87579A55F5"
+			tasks: [{
+				id: "7C1704BB21C3DC9B"
+				type: "item"
+				item: {
+					id: "relics:hunter_belt"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 6.5d
+			y: 9.0d
+			dependencies: ["6C45CE02A03DCEE9"]
+			id: "58AD1BD73DE914DF"
+			tasks: [{
+				id: "400B1517626AAB8E"
+				type: "item"
+				item: {
+					id: "relics:drowned_belt"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 7.5d
+			y: 7.5d
+			dependencies: ["6C45CE02A03DCEE9"]
+			id: "29CDF04791B5170E"
+			tasks: [{
+				id: "5A010B73BD617583"
+				type: "item"
+				item: {
+					id: "relics:out_runner"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 3.5d
+			y: 9.0d
+			dependencies: ["6C45CE02A03DCEE9"]
+			id: "5A52435B70FFF051"
+			tasks: [{
+				id: "2A185E4701CFEBDD"
+				type: "item"
+				item: {
+					id: "relics:rage_glove"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+				}
+			}]
+		}
+	]
+}
