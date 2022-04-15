@@ -26,6 +26,7 @@ removeAndHide(<item:quark:bonded_ravager_hide>);
 removeAndHide(<item:quark:pipe>);
 removeAndHide(<item:quark:crate>);
 removeAndHide(<item:quark:soul_compass>);
+removeAndHide(<item:quark:matrix_enchanter>);
 
 
 
