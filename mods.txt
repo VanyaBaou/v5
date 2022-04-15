@@ -61,7 +61,6 @@ Controlling-7.0.0.28.jar
 convenientcurioscontainer-1.3-1.16.5.jar
 CookingForBlockheads_1.16.5-9.3.4.jar
 CosmeticArmorReworked-1.16.5-v5.jar
-cosmoslibrary-1.16.5-6.8.0-universal.jar
 CraftingTweaks_1.16.5-12.2.1.jar
 CraftTweaker-1.16.5-7.1.2.501.jar
 Cucumber-1.16.5-4.1.12.jar
@@ -73,7 +72,6 @@ decorative_blocks-1.16.4-1.7.2.jar
 decorative_blocks_abnormals-1.2.jar
 decorative_winter-0.1.2.jar
 dimdungeons-1.13.1.jar
-dimensionalpocketsii-1.16.5-1.4.13-universal.jar
 DoggyTalents-1.16.5-2.1.15.jar
 drippyloadingscreen_forge_1.5.1_MC_1.16.2-1.16.5.jar
 Druidcraft-1.16.5-0.4.54.jar

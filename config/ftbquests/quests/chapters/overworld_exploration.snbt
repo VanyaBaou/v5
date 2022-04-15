@@ -4213,19 +4213,6 @@
 					}
 				}
 				{
-					id: "0FDFF0E9B6DB7860"
-					type: "item"
-					item: {
-						id: "dimensionalpocketsii:dimensional_tome"
-						Count: 1b
-						ForgeCaps: {
-							"dungeons_libraries:built_in_enchantments": {
-								BuiltInEnchantments: [ ]
-							}
-						}
-					}
-				}
-				{
 					id: "2A9BA1F8ABA5EAE1"
 					type: "item"
 					item: {
@@ -4302,32 +4289,6 @@
 								666427245
 							]
 						}
-						ForgeCaps: {
-							"dungeons_libraries:built_in_enchantments": {
-								BuiltInEnchantments: [ ]
-							}
-						}
-					}
-				}
-				{
-					id: "34A14064575931A9"
-					type: "item"
-					item: {
-						id: "dimensionalpocketsii:module_crafter"
-						Count: 1b
-						ForgeCaps: {
-							"dungeons_libraries:built_in_enchantments": {
-								BuiltInEnchantments: [ ]
-							}
-						}
-					}
-				}
-				{
-					id: "00DD8EB98FFC4CFE"
-					type: "item"
-					item: {
-						id: "dimensionalpocketsii:module_furnace"
-						Count: 1b
 						ForgeCaps: {
 							"dungeons_libraries:built_in_enchantments": {
 								BuiltInEnchantments: [ ]

@@ -13,11 +13,6 @@
 	{
 		"mining": 20
 	},
-	"dimensionalpocketsii:block_dimensional_ore":
-	{
-		"mining": 3,
-		"magic": 2
-	},
 	"#forge:ores/coal":
 	{
 		"mining": 1

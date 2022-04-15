@@ -416,18 +416,6 @@
       676,
       2.592
     ],
-    "dimensionalpocketsii:dimensional_axe": [
-      424,
-      4.608
-    ],
-    "dimensionalpocketsii:dimensional_bow": [
-      850,
-      0.0
-    ],
-    "dimensionalpocketsii:dimensional_sword": [
-      600,
-      3.2
-    ],
     "druidcraft:bone_axe": [
       600,
       3.2
@@ -3439,10 +3427,6 @@
       482,
       4.144
     ],
-    "dimensionalpocketsii:dimensional_boots": [
-      479,
-      4.168
-    ],
     "druidcraft:bone_boots": [
       779,
       1.768
@@ -3981,10 +3965,6 @@
       482,
       4.144
     ],
-    "dimensionalpocketsii:dimensional_leggings": [
-      479,
-      4.168
-    ],
     "druidcraft:bone_leggings": [
       779,
       1.768
@@ -4506,22 +4486,6 @@
     "byg:ametrine_chestplate": [
       482,
       4.144
-    ],
-    "dimensionalpocketsii:dimensional_chestplate": [
-      479,
-      4.168
-    ],
-    "dimensionalpocketsii:dimensional_elytraplate": [
-      258,
-      5.936
-    ],
-    "dimensionalpocketsii:dimensional_elytraplate_screen": [
-      258,
-      5.936
-    ],
-    "dimensionalpocketsii:dimensional_elytraplate_shift": [
-      258,
-      5.936
     ],
     "druidcraft:bone_chestplate": [
       779,
@@ -5292,10 +5256,6 @@
     "byg:ametrine_helmet": [
       482,
       4.144
-    ],
-    "dimensionalpocketsii:dimensional_helmet": [
-      479,
-      4.168
     ],
     "druidcraft:bone_helmet": [
       779,
