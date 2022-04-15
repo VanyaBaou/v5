@@ -248,11 +248,7 @@ TravelersTitles-1.16.4-1.5.jar
 Tropicraft-9.2.0-release+90.jar
 twilightforest-1.16.5-4.0.870-universal.jar
 UnionLib-1.16.5-3.3.7.jar
-Unique Enchantments Apex-1.16.5-1.1.0.jar
-Unique Enchantments Base-1.16.5-1.3.0.jar
-Unique Enchantments Battle-1.16.5-1.3.0.jar
-Unique Enchantments Utils-1.16.5-1.6.0.jar
-Unique Enchantments-1.16.5-2.2.0.jar
+Unique_Enchantments-1.16.5-14-2120162194.jar
 upgradedcore-1.16.5-1.0.0.3-release.jar
 upgradednetherite-1.16.5-2.0.0.8-release.jar
 upgradednetherite_items-1.16.5-1.0.0.4-release.jar
