@@ -329,7 +329,7 @@
 
 [steel]
 	#Set to true to disable steel weapons
-	disable = false
+	disable = true
 	#Durability for steel weapons
 	#Range: 1 ~ 100000
 	durability = 480
@@ -359,7 +359,7 @@
 
 [platinum]
 	#Set to true to disable platinum weapons
-	disable = false
+	disable = true
 	#Durability for platinum weapons
 	#Range: 1 ~ 100000
 	durability = 1024
