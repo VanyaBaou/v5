@@ -25,7 +25,8 @@ config/jei/ingredient-list-mod-sort-order.ini
 config/jei/recipe-category-sort-order.ini
 config/tombstone-client.toml
 config/waila/waila.json
-config/inventoryhude-client.toml
+config/inventoryhud-client.toml
+config/sodium-options.json
 config/xaerominimap.txt
 config/xaerominimap_entities.json
 /patchouli_data.json
