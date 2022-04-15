@@ -1944,11 +1944,11 @@
 			B = [0.0, 0.0, 0.89]
 
 [oddities]
-	"Totem Of Holding" = true
-	Backpack = true
-	"Matrix Enchanting" = true
-	Magnets = true
-	Pipes = true
+	"Totem Of Holding" = false
+	Backpack = false
+	"Matrix Enchanting" = false
+	Magnets = false
+	Pipes = false
 	Crate = false
 
 	[oddities.totem_of_holding]
