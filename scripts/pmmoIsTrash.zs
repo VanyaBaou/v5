@@ -9,7 +9,7 @@ for allItems in game.items {
 			while (removingTags) {
 				while(index-- > 0 && !(stack.empty) && !(tooltip.length == 0)) {
 					var line = tooltip[index];
-					if (line.getStringTruncated(1) == "#") {
+					if (line.getStringTruncated(1) == "#" || line.getStringTruncated(((" Hardness ").length as int)) == " Hardness ") {
 						tooltip.remove(tooltip[(index as int)]);
 						removingTags = true;
 						break;
