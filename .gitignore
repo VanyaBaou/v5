@@ -14,6 +14,8 @@ configs
 /XaeroWorldMap
 /.curseclient
 /options.txt
+/optionsof.txt
+/optionsshaders.txt
 /reauth.toml
 /usercache.json
 /usernamecache.json
@@ -32,4 +34,5 @@ config/xaerominimap_entities.json
 /patchouli_data.json
 /screenshots
 /classes
+/shaderpacks
 *.bak
