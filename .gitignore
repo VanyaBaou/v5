@@ -29,7 +29,6 @@ config/tombstone-client.toml
 config/waila/waila.json
 config/inventoryhud-client.toml
 config/sodium-options.json
-config/xaerominimap.txt
 config/xaerominimap_entities.json
 /patchouli_data.json
 /screenshots
