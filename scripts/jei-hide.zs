@@ -45,6 +45,14 @@ removeAndHide(<item:pickletweaks:magnet>);
 removeAndHide(<item:spartanshields:shield_botania_manasteel>);
 removeAndHide(<item:spartanshields:shield_botania_terrasteel>);
 removeAndHide(<item:spartanshields:shield_botania_elementium>);
+removeAndHide(<item:spartanshields:shield_mekanism_osmium>);
+removeAndHide(<item:spartanshields:shield_mekanism_lapis_lazuli>);
+removeAndHide(<item:spartanshields:shield_mekanism_refined_glowstone>);
+removeAndHide(<item:spartanshields:shield_mekanism_refined_obsidian>);
+removeAndHide(<item:spartanshields:shield_mekanism_powered_basic>);
+removeAndHide(<item:spartanshields:shield_mekanism_powered_advanced>);
+removeAndHide(<item:spartanshields:shield_mekanism_powered_elite>);
+removeAndHide(<item:spartanshields:shield_mekanism_powered_ultimate>);
 
 
 
