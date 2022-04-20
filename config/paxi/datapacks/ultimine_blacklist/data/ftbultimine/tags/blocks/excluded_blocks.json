@@ -14,9 +14,11 @@
 		"minecraft:obsidian",
 		"minecraft:dirt",
 		"minecraft:soul_sand",
+		"minecraft:soul_soil",
 		"minecraft:gravel",
 		"minecraft:grass_block",
 		"minecraft:podzol",
+		"minecraft:mycelium",
 		"minecraft:sand",
 		"minecraft:netherrack",
 		"minecraft:red_sand",
@@ -25,7 +27,20 @@
 		"minecraft:clay",
 		"minecraft:bookshelf",
 		"minecraft:pumpkin",
-		"cavesandcliffs:deepslate"
-
+		"cavesandcliffs:deepslate",
+		"cavesandcliffs:calcite",
+		"cavesandcliffs:tuff",
+		"cavesandcliffs:moss_block",
+		"quark:marble",
+		"quark:myalite",
+		"quark:jasper",
+		"quark:basalt",
+		"quark:slate",
+		"quark:limestone",
+		"quark:glowcelium",
+		"darkerdepths:limestone",
+		"darkerdepths:aridrock",
+		"darkerdepths:shale",
+		"darkerdepths:grimestone"
 	]
 }
