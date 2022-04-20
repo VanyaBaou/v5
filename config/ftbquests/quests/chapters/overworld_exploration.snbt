@@ -989,6 +989,7 @@
 		{
 			x: 16.0d
 			y: 6.0d
+			dependencies: ["1D6D6CB93ECEF297"]
 			id: "3A78EBA961882C21"
 			tasks: [
 				{
@@ -1045,10 +1046,7 @@
 		{
 			x: 14.0d
 			y: 6.0d
-			dependencies: [
-				"5F4896458FA5BB60"
-				"3A78EBA961882C21"
-			]
+			dependencies: ["5F4896458FA5BB60"]
 			id: "1D6D6CB93ECEF297"
 			tasks: [
 				{
@@ -5468,6 +5466,78 @@
 					id: "7854BB23EA398CF0"
 					type: "choice"
 					table_id: 8545390299491237994L
+				}
+			]
+		}
+		{
+			x: 18.0d
+			y: 5.0d
+			dependencies: ["35797C4EA9C3718E"]
+			id: "4FDAE4EF717B3D17"
+			tasks: [
+				{
+					id: "3C72D0348681D973"
+					type: "item"
+					item: {
+						id: "pickletweaks:emerald_helmet"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": {
+								BuiltInEnchantments: [ ]
+							}
+						}
+					}
+				}
+				{
+					id: "3B9981D1454EA2B0"
+					type: "item"
+					item: {
+						id: "pickletweaks:emerald_chestplate"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": {
+								BuiltInEnchantments: [ ]
+							}
+						}
+					}
+				}
+				{
+					id: "36FC54B63DA44979"
+					type: "item"
+					item: {
+						id: "pickletweaks:emerald_leggings"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": {
+								BuiltInEnchantments: [ ]
+							}
+						}
+					}
+				}
+				{
+					id: "47639D2E48C04E0A"
+					type: "item"
+					item: {
+						id: "pickletweaks:emerald_boots"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": {
+								BuiltInEnchantments: [ ]
+							}
+						}
+					}
 				}
 			]
 		}
