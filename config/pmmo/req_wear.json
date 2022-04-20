@@ -2084,7 +2084,7 @@
 	},
 	"minecraft:turtle_helmet":
 	{
-		"endurance": 15,
+		"endurance": 5,
 		"swimming": 5
 	},
 	"oresandmetals:adamant_boots":
