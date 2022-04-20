@@ -86,6 +86,17 @@ removeAndHide(<item:prefab:item_sickle_gold>);
 removeAndHide(<item:prefab:item_sickle_iron>);
 removeAndHide(<item:prefab:item_sickle_diamond>);
 removeAndHide(<item:prefab:item_sickle_netherite>);
+removeAndHide(<item:prefab:item_swift_blade_wood>);
+removeAndHide(<item:prefab:item_swift_blade_stone>);
+removeAndHide(<item:prefab:item_swift_blade_iron>);
+removeAndHide(<item:prefab:item_swift_blade_diamond>);
+removeAndHide(<item:prefab:item_swift_blade_gold>);
+removeAndHide(<item:prefab:item_swift_blade_copper>);
+removeAndHide(<item:prefab:item_swift_blade_osmium>);
+removeAndHide(<item:prefab:item_swift_blade_bronze>);
+removeAndHide(<item:prefab:item_swift_blade_steel>);
+removeAndHide(<item:prefab:item_swift_blade_obsidian>);
+removeAndHide(<item:prefab:item_swift_blade_netherite>);
 
 
 
