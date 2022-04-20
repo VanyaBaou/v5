@@ -825,10 +825,15 @@
 					id: "1E63F293DF5C3CFD"
 					type: "item"
 					item: {
-						id: "druidcraft:stone_sickle"
+						id: "pickletweaks:stone_sickle"
 						Count: 1b
 						tag: {
 							Damage: 0
+						}
+						ForgeCaps: {
+							"dungeons_libraries:built_in_enchantments": {
+								BuiltInEnchantments: [ ]
+							}
 						}
 					}
 				}

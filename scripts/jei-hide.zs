@@ -70,6 +70,22 @@ removeAndHide(<item:mysticalworld:iron_knife>);
 
 
 removeAndHide(<item:druidcraft:knife>);
+removeAndHide(<item:druidcraft:bone_sickle>);
+removeAndHide(<item:druidcraft:moonstone_sickle>);
+removeAndHide(<item:druidcraft:wooden_sickle>);
+removeAndHide(<item:druidcraft:stone_sickle>);
+removeAndHide(<item:druidcraft:iron_sickle>);
+removeAndHide(<item:druidcraft:gold_sickle>);
+removeAndHide(<item:druidcraft:diamond_sickle>);
+
+
+
+removeAndHide(<item:prefab:item_sickle_wood>);
+removeAndHide(<item:prefab:item_sickle_stone>);
+removeAndHide(<item:prefab:item_sickle_gold>);
+removeAndHide(<item:prefab:item_sickle_iron>);
+removeAndHide(<item:prefab:item_sickle_diamond>);
+removeAndHide(<item:prefab:item_sickle_netherite>);
 
 
 
