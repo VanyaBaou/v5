@@ -1,3 +1,7 @@
+craftingTable.removeByName("thermal:storage/silver_ingot_from_nuggets");
+craftingTable.removeByName("thermal:storage/copper_ingot_from_nuggets");
+craftingTable.removeByName("thermal:storage/tin_ingot_from_nuggets");
+craftingTable.removeByName("thermal:storage/lead_ingot_from_nuggets");
 craftingTable.removeRecipe(<item:berry_nice:goldensweetberry>);
 craftingTable.removeRecipe(<item:brewevolution:full_dried_bread>);
 craftingTable.removeRecipe(<item:thermal:bronze_ingot>);
