@@ -25,13 +25,13 @@
 	#Diamond and Emerald Apples enabled?
 	apples = true
 	#Watering Can enabled?
-	wateringCan = true
+	wateringCan = false
 	#Enable Meshes?
 	meshes = true
 	#Enable Magnet?
-	magnet = true
+	magnet = false
 	#Enable Night Vision Goggles?
-	nightVisionGoggles = true
+	nightVisionGoggles = false
 	#Enable Paxels?
 	paxels = true
 	#Enable Flint tools and armor?
@@ -74,7 +74,7 @@
 #Disable and configure tweaks.
 [Tweaks]
 	#Enabled tools not breaking?
-	toolBreaking = true
+	toolBreaking = false
 	#Tools and weapons that should be ineffective.
 	#Ex: ["minecraft:stone_pickaxe", "minecraft:stone_sword"]
 	uselessTools = []
