@@ -5,7 +5,7 @@
 	minTier = 0
 	maxTier = 4
 	presetAffixes = []
-	affixList = ["knocking", "wounding", "paralyzing", "molten"]
+	affixList = ["knocking", "wounding", "paralyzing", "molten", "hasty"]
 	affixPermission = "BLACKLIST"
 [[entities]]
 	entity = "minecraft:silverfish"
