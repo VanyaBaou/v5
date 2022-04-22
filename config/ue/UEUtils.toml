@@ -135,9 +135,9 @@
 
 		[general.utils.rocketman]
 			#If the Enchantment is Obtainable
-			enabled = true
+			enabled = false
 			#If the Enchantment has any effect
-			activated = true
+			activated = false
 			#Minimum Enchantment Level
 			#Range: > 0
 			min_level = 1
@@ -150,7 +150,7 @@
 			#If the Enchantment is a Treasure
 			treasure = true
 			#If the Enchantment is Tradeable by Villagers
-			tradeable = true
+			tradeable = false
 			#Minimum Level for Enchanting
 			#Range: > 0
 			base_cost = 25
@@ -176,9 +176,9 @@
 
 		[general.utils.climber]
 			#If the Enchantment is Obtainable
-			enabled = true
+			enabled = false
 			#If the Enchantment has any effect
-			activated = true
+			activated = false
 			#Minimum Enchantment Level
 			#Range: > 0
 			min_level = 1
@@ -189,7 +189,7 @@
 			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
 			rarity = "UNCOMMON"
 			#If the Enchantment is a Treasure
-			treasure = true
+			treasure = false
 			#If the Enchantment is Tradeable by Villagers
 			tradeable = true
 			#Minimum Level for Enchanting
