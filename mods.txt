@@ -16,6 +16,7 @@ archers_paradox-1.16.5-1.4.0.1.jar
 architectury-1.30.58.jar
 arsarsenal-1.0.6-1.16.5.jar
 ars_nouveau-1.16.5-1.24.22.jar
+ArsPMMO-1.16.5-1.0.1.jar
 Artifacts-1.16.5-2.10.5.jar
 Atum-1.16.5-2.2.10.jar
 AutoRegLib-1.6-49.jar
@@ -180,7 +181,6 @@ Paxi-Forge-1.16.4-1.0.jar
 PickleTweaks-1.16.5-5.2.6.jar
 pirate_hats.jar
 Placebo-1.16.5-4.7.0.jar
-pmmobridge-1.16.5-1.0.7.jar
 polymorph-forge-1.16.5-0.40.jar
 potiondescriptions-1.16.5-1.5.3.jar
 prefab-1.6.5.15.jar
